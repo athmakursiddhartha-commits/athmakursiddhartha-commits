@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm siddhartha</h1>
+<h3 align="center">Frontend & MERN Stack Developer from India 🇮🇳</h3>
 
-<!--
-**athmakursiddhartha-commits/athmakursiddhartha-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 💫 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a student at **St. Peter's Engineering College**  
+💻 Passionate about **Web Development & Backend Engineering**  
+🚀 Currently learning the **MERN Stack**  
+🌱 Exploring **System Design & AI Agents**  
+⚡ Love building real-world projects using JavaScript
+
+---
+
+# 🌐 Connect With Me:
+
+<p align="left">
+<a href="athmakursiddhartha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎮 SIMON Game
+A memory-based game built using HTML, CSS, and JavaScript.
+
+## 🤖 System Design AI Agent
+AI-powered system design learning assistant.
+
+## 🔐 Secure Login System
+Login page with limited login attempts and security features.
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=athmakursiddhartha-commits&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=harigoud74&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harigoud74&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=harigoud74&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 📈 Contribution Graph
+
+[![Hari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athmakursiddhartha-commits&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🔥 Current Goals
+
+- Learn Advanced Backend Development
+- Build Full Stack MERN Projects
+- Contribute to Open Source
+- Master System Design
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=athmakursiddhartha-commits&label=Profile%20Views&color=blue&style=flat)
+
+---
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
